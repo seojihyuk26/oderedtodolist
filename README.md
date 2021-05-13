@@ -2,4 +2,4 @@
 
 This is an Ordered todoList.
 
-Based on python.
+Based on Vue.js
